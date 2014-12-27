@@ -65,8 +65,7 @@ if y &gt; room_height
     else
         {
         
-        with (object_control) go = false;
-        instance_create(object_bat.x, object_bat.y - 32, object_ball);
+        instance_create(object_bat.x, object_bat.y - 48, object_ball);
         instance_destroy();
         }
     }

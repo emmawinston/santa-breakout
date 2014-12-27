@@ -41,7 +41,7 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>0</IsTutorial>
+    <IsTutorial>-1</IsTutorial>
     <TutorialName>C:\Users\Emma\AppData\Local\GameMaker-Studio\Tutorials\03_Coding_BreakOut</TutorialName>
     <TutorialPage>1</TutorialPage>
   </TutorialState>
